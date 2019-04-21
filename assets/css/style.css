@@ -1,0 +1,28 @@
+.asterisk {
+    color: red
+}
+
+.alertMsg {
+    color: red;
+    display: none
+}
+
+.baseData {
+    display: none
+}
+
+#wrapperLogin {
+    background-color: #3C8DBC
+}
+
+#loginForm {
+    margin: 150px 0 0 0;
+    padding: 10px;
+    background-color: #FFF;
+    border-radius: 10px
+}
+
+#loginAlert {
+    color: rgb(59, 3, 3);
+    margin: 5px 0 0 0
+}

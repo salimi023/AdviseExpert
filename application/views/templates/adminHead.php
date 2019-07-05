@@ -10,7 +10,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>AdviseExpert | Próbafeladat</title>
+    <title>MiniCRM</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/template/bower_components/bootstrap/dist/css/bootstrap.min.css">
@@ -75,9 +75,9 @@ desired effect
             <!-- Logo -->
             <a href="#" class="logo">
                 <!-- mini logo for sidebar mini 50x50 pixels -->
-                <span class="logo-mini">AE</span>
+                <span class="logo-mini">CRM</span>
                 <!-- logo for regular state and mobile devices -->
-                <span class="logo-lg">AdviseExpert</span>
+                <span class="logo-lg">MiniCRM</span>
             </a>
 
             <!-- Header Navbar -->

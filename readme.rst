@@ -1,1 +1,1 @@
-MiniCRM built on CodeIgniter
+MiniCRM built on CodeIgniter framework and ADMIN LTE template.
